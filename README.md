@@ -8,7 +8,7 @@ A modern weather application built using **HTML, CSS, and JavaScript** that fetc
 
 | Search | Weather | Not Found |
 |--------|---------|-----------|
-| ![](starting.png) | ![](running.jpg) | ![](notFound.png) |
+| ![](starting.png) | ![](running.png) | ![](notFound.png) |
 
 ---
 
