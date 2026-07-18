@@ -22,9 +22,8 @@ A modern weather application built using **HTML, CSS, and JavaScript** that fetc
 
 ## 🚀 Live Demo
 
-> Add your GitHub Pages link here
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_LIVE_LINK)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masgharimamsyed-prog.github.io/Weather-App/)
 
 ---
 
@@ -68,7 +67,7 @@ Weather-App/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/masgharimamsyed-prog/Weather-App-.git
+git clone https://github.com/masgharimamsyed-prog/Weather-App.git
 
 cd Weather-App
 
